@@ -1,0 +1,24 @@
+.container {
+	width: 100%;
+}
+
+header {
+	width: 100%;
+}
+
+.header {
+	background-color: #3a9bc1;
+	width: 100%;
+}
+
+.headerItem {
+	width: 33%;
+	position: relative;
+	float: left;
+	text-align: center;
+}
+
+body {
+	margin: 0;
+	background-color: #69caf4;
+}
